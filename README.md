@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Uploading dino.gif…]()
+
 
 <!--
 **YOYI92/YOYI92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![dino](https://github.com/YOYI92/YOYI92/assets/103218563/eb784ee3-3631-4a79-9e38-91c23cfec0c3)
