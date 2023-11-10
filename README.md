@@ -1,18 +1,24 @@
-### Hi there 👋
-
-
-<!--
-**YOYI92/YOYI92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hola soy Gabriel Romero Testa 👋
 ![dino](https://github.com/YOYI92/YOYI92/assets/103218563/eb784ee3-3631-4a79-9e38-91c23cfec0c3)
+
+Estudiante de la carrera de Programación de la Universidad Tecnológica Nacional FRSR.
+
+Estudiante de la carrera de Ingeniería Industrial de la Universidad Tecnológica Nacional FRSR.
+
+## Sobre mi
+
+ - 📚 Actualmente me encuentro cursando la parte final de la carrera en programación y desarrollando el proyecto final de mi carrera de ingenieria.
+ - 🧉 Mi grupo de estudio se llama "Mate Coders".
+
+## Habilidades
+
+ - Frontend: HTML5, CSS, JavaScript.
+ - Backend: Java, Python
+ - Metodologias agiles: Scrum
+ - Otras: Flexibilidad, Resolucion de problemas, Atención al detalle, Orientación a resultados
+
+## Contactame
+ - Correo electrónico: gabrielromerotesta@gmail.com
+ - Linkedin: https://www.linkedin.com/in/gabrielromerotesta/
+   
+  
