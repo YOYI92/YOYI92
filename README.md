@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Uploading dino.gif…]()
 
 <!--
 **YOYI92/YOYI92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
