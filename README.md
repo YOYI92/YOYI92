@@ -7,15 +7,15 @@ Estudiante de la carrera de Ingeniería Industrial de la Universidad Tecnológic
 
 ## Sobre mi
 
- - 📚 Actualmente me encuentro cursando la parte final de la carrera en programación y desarrollando el proyecto final de mi carrera de ingenieria.
+ - 📚 Actualmente me encuentro cursando la parte final de la carrera en programación y desarrollando el proyecto final de mi carrera de ingeniería.
  - 🧉 Mi grupo de estudio se llama "Mate Coders".
 
 ## Habilidades
 
  - Frontend: HTML5, CSS, JavaScript.
  - Backend: Java, Python
- - Metodologias agiles: Scrum
- - Otras: Flexibilidad, Resolucion de problemas, Atención al detalle, Orientación a resultados
+ - Metodologías ágiles: Scrum
+ - Otras: Flexibilidad, Resolución de problemas, Atención al detalle, Orientación a resultados
 
 ## Contactame
  - Correo electrónico: gabrielromerotesta@gmail.com
